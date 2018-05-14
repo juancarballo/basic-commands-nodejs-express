@@ -1,6 +1,6 @@
 # learning-nodejs-express
 
-* *Debemos instalar NodeJS en nuestra computadora*
+* **Debemos instalar NodeJS en nuestra computadora**
 
 * **Luego abrimos nuestro editor de código y nos ubicamos en la carpeta donde empezaremos nuestro proyecto**
 
